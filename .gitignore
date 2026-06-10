@@ -1,0 +1,22 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ambiente local (nunca commitar credenciais reais)
+.env
+.env.local
+
+# Logs e cache
+*.log
+cache/
+tmp/
+
+# Dependências (caso adicione Composer no futuro)
+vendor/
